@@ -5,7 +5,9 @@ A single self-contained, offline HTML reference for the reverse-engineered C++ A
 
 > 💾 **Offline:** download `ReKenshi_KLIB_kinda_swagger.html` and double-click it — no internet needed.
 
+![swagger — screenshot](real-example.jpg)
 
+![swagger — screenshot](synt-example.jpg)
 ---
 
 ## English
