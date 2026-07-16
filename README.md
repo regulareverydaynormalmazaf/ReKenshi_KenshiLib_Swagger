@@ -1,4 +1,4 @@
-# Kenshi C++ API Browser (RE_Kenshi / KenshiLib)
+# Kenshi C++ "API" RE_Kenshi + KenshiLib
 
 A single self-contained, offline HTML reference for the reverse-engineered C++ API of **Kenshi** (Steam v1.0.65), for writing plugin mods with the **RE_Kenshi + KenshiLib** SDK.
 
