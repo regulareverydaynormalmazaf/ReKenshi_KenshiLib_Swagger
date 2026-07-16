@@ -37,6 +37,7 @@ Materials used (reconstructed headers, code examples, dependencies):
 The most valuable part of this reference is **real examples from working code**. If you've built a working RE_Kenshi / KenshiLib mod, please share its **source code**:
 
 - 📧 email **u1host@proton.me** — as a zip archive or a link to your GitHub repository;
+- by open an Issue;
 - or any other convenient way.
 
 **What happens to your code:**
