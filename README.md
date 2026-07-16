@@ -2,10 +2,9 @@
 
 A single self-contained, offline HTML reference for the reverse-engineered C++ API of **Kenshi** (Steam v1.0.65), for writing plugin mods with the **RE_Kenshi + KenshiLib** SDK.
 
-> 🌐 **Online (GitHub Pages):** `https://regulareverydaynormalmazaf.github.io/ReKenshi_KenshiLib_Swagger/` — opens right in the browser.
->
+
 > 💾 **Offline:** download `ReKenshi_KLIB_kinda_swagger.html` and double-click it — no internet needed.
->
+
 
 ---
 
@@ -107,13 +106,8 @@ To serve it by link: repo → **Settings** → **Pages** → under *Build and de
 Так справочник наполнится большим числом проверенных примеров и станет полезнее для всего сообщества модостроителей Kenshi. Спасибо! 🖤
 
 ### Как пользоваться
-
-1. Откройте онлайн по адресу Pages **или** скачайте `index.html` и откройте двойным кликом (интернет не нужен).
-2. Выберите класс слева, раскрывайте домены → поля/методы → строку. Читайте факты, домены значений и примеры; копируйте RVA, сигнатуру, слот vtable и скелет хука.
-
-### GitHub Pages
-
-Чтобы справочник открывался прямо по ссылке: репозиторий → **Settings** → **Pages** → в разделе *Build and deployment* выберите **Deploy from a branch**, ветку **main** и папку **/ (root)** → **Save**. Через 1–2 минуты адрес вида `https://regulareverydaynormalmazaf.github.io/ReKenshi_KenshiLib_Swagger/` заработает и покажет `ReKenshi_KLIB_kinda_swagger.html`.
+>💾 ** В автономном режиме:** загрузите "ReKenshi_KLIB_kinda_swagger.html" и дважды щелкните по нему - интернет не требуется.
+Выберите класс слева, раскрывайте домены → поля/методы → строку. Читайте факты, домены значений и примеры; копируйте RVA, сигнатуру, слот vtable и скелет хука.
 
 ### Ограничения
 
