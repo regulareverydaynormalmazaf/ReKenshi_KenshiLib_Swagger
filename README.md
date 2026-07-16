@@ -4,9 +4,8 @@ A single self-contained, offline HTML reference for the reverse-engineered C++ A
 
 > 🌐 **Online (GitHub Pages):** `https://regulareverydaynormalmazaf.github.io/ReKenshi_KenshiLib_Swagger/` — opens right in the browser.
 >
-> 💾 **Offline:** download `index.html` and double-click it — no internet needed.
+> 💾 **Offline:** download `ReKenshi_KLIB_kinda_swagger.html` and double-click it — no internet needed.
 >
-> *(Replace the placeholder with your real address after enabling Pages — see “GitHub Pages” below.)*
 
 ---
 
