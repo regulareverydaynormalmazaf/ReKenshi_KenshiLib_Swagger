@@ -5,9 +5,9 @@ A single self-contained, offline HTML reference for the reverse-engineered C++ A
 
 > 💾 **Offline:** download `ReKenshi_KLIB_Navigator.html` and double-click it — no internet needed.
 
-![swagger — screenshot](real-example.jpg)
+![swagger — screenshot](review.png)
 
-![swagger — screenshot](synt-example.jpg)
+![swagger — screenshot](interface.jpg)
 ---
 
 ## English
