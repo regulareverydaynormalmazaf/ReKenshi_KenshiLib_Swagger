@@ -3,7 +3,7 @@
 A single self-contained, offline HTML reference for the reverse-engineered C++ API of **Kenshi** (Steam v1.0.65), for writing plugin mods with the **RE_Kenshi + KenshiLib** SDK.
 
 
-> 💾 **Offline:** download `ReKenshi_KLIB_kinda_swagger.html` and double-click it — no internet needed.
+> 💾 **Offline:** download `ReKenshi_KLIB_Navigator.html` and double-click it — no internet needed.
 
 ![swagger — screenshot](real-example.jpg)
 
