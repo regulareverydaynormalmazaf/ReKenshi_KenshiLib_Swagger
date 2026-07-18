@@ -59,8 +59,6 @@ To serve it by link: repo → **Settings** → **Pages** → under *Build and de
 
 ### Limitations
 
-- Function internals are unavailable (closed-source game).
-- For ~369 virtual methods the vtable slot wasn't reconstructed (`0x0` in headers); 329 of them are still hookable via the `_NV_` twin (RVA), only 33 pure-virtual methods without RVA truly need it.
 - Code examples cover part of the API and grow as open sources arrive (see the call above).
 
 ### License
@@ -114,8 +112,6 @@ To serve it by link: repo → **Settings** → **Pages** → under *Build and de
 
 ### Ограничения
 
-- Внутренняя логика функций недоступна (закрытый код игры).
-- У ~369 виртуальных методов слот vtable не восстановлен реверсом (`0x0` в заголовках); из них 329 всё равно хукаются через `_NV_`-близнеца по RVA, по-настоящему слот нужен лишь 33 чисто-виртуальным методам без RVA.
 - Примеры кода покрывают часть API и пополняются по мере поступления открытых исходников (см. призыв выше).
 
 ### Лицензия
